@@ -117,15 +117,6 @@ df_clean = clean_missing_values(df)
 df_featured = create_new_features(df_clean)
 ```
 
-## 📋 Requirements
-
-- Python 3.7+
-- pandas >= 1.5.0
-- numpy >= 1.24.0
-- matplotlib >= 3.6.0
-- seaborn >= 0.12.0
-- scikit-learn >= 1.2.0
-
 ## 🤝 Contributing
 
 Feel free to fork this project and submit pull requests for improvements or additional features.
