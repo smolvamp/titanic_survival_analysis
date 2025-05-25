@@ -62,9 +62,16 @@ After running the pipeline, the following files will be created:
 
 - `titanic_cleaned.csv` - Final preprocessed dataset
 - `correlation_heatmap.png` - Feature correlation visualization
+  ![correlation_heatmap](https://github.com/user-attachments/assets/c3decea2-fd60-4940-b740-0a5771c8971e)
+
 - `distribution_plots.png` - Feature distribution analysis
+  ![distribution_plots](https://github.com/user-attachments/assets/3b9d4ed0-5ac3-4860-addc-e3abd6ce81fc)
+
 - `categorical_plots.png` - Categorical variable relationships
+  ![categorical_plots](https://github.com/user-attachments/assets/24a4a091-9b8a-4ee3-870f-3e96c10120e4)
+
 - `outlier_boxplots.png` - Outlier detection visualizations
+![outlier_boxplots](https://github.com/user-attachments/assets/6a63418e-95f7-4894-a033-a35e2ba1144d)
 
 ## 🛠️ Features
 
