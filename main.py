@@ -4,9 +4,6 @@ Main orchestration script for Titanic dataset preprocessing.
 This script coordinates all preprocessing steps in the correct order.
 """
 
-import warnings
-warnings.filterwarnings('ignore')
-
 from src.load_data import load_titanic_data
 from src.inspect import inspect_dataset
 from src.clean import clean_missing_values, drop_irrelevant_columns, check_duplicates
