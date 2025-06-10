@@ -2,6 +2,13 @@
 
 A comprehensive, modular preprocessing pipeline for the Titanic dataset that performs data cleaning, feature engineering, visualization, and analysis.
 
+https://galgotiasuniversityeduin0-my.sharepoint.com/:u:/g/personal/kartik_23scse1011803_galgotiasuniversity_ac_in/EeRgFfwEY65BjguNMiKAVFwBZj2HMYOB-BNpZqSVQfWicQ?e=5dgkrl
+[titanic_survival_analysis.pdf](https://github.com/user-attachments/files/20676470/titanic_survival_analysis.pdf)
+
+
+
+
+
 ## 🚀 Quick Start
 
 1. **Install dependencies:**
